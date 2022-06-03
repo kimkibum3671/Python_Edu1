@@ -100,3 +100,6 @@ while turns > 0:
             print("Hangman Game is Over!")
             exit(1)
 
+##
+# Program Test
+##
